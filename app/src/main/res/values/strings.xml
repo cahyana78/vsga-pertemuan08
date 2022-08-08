@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">LatihanStorage</string>
+    <string name="buat_file">Buat File</string>
+    <string name="ubah_file">Ubah File</string>
 </resources>
